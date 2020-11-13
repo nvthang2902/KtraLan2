@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaoListKtra</string>
+
+
+    <string name="anhdt">anhdt</string>
+    <string name="i_n_tho_i_vsmast_80gb">Điện thoại vsmast 80GB</string>
+    <string name="gi">Giá</string>
+    <string name="r_h_n_ho_n_ti_n">Rẻ hơn hoàn tiền</string>
+    <string name="nhieumau">Nhiều màu</string>
+</resources>
